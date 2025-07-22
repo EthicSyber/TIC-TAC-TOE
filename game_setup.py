@@ -1,10 +1,13 @@
 from tic_tac_toe import *
+from game_art import ttt_art
 import time 
 
 def play_game():
     """TIC TAC TOE GAME"""
     global players_turn, game_on
     game_on = True
+
+    print(ttt_art)
     
     print("Welcome to TIC - TAC - TOE !!!")
     chosen_role = input("Please choose your character (e.g., 'X' or 'O'): ")

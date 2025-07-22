@@ -1,4 +1,5 @@
-A CLI version of the Tic-Tac-Toe game. My desire was to build on some general development fundamentals and continue of my learning journey as a developer. I hope you enjoy!!
+<img width="967" height="128" alt="ttt" src="https://github.com/user-attachments/assets/061c31eb-8462-484a-b22d-ee8b6ba92b38" />
 
+A CLI version of the Tic-Tac-Toe game. 
 
 Also I will update the README soon...

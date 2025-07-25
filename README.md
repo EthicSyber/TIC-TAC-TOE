@@ -1,4 +1,4 @@
-<img width="967" height="150" alt="Tic-Tac-Toe" src="https://github.com/user-attachments/assets/061c31eb-8462-484a-b22d-ee8b6ba92b38" />
+<img width="720" height="400" alt="ascii-text-art-2" src="https://github.com/user-attachments/assets/f0c964b7-0f4d-4916-94ea-addd70c1caf1" />
 
 A CLI version of the Tic-Tac-Toe (Naughts and Crosses) game. 
 
